@@ -45,6 +45,11 @@ export default function Formulario() {
         setState({ ...state, [event.target.name]: event.target.checked });
     };
     return (
+        <div>
+            
+            <div>
+            
+            <div align='center'><h2>Registrate para mas info...</h2></div>
         <Container>
             <div align='center'>
             <FormControl>
@@ -95,5 +100,7 @@ export default function Formulario() {
                 </form>
             </FormControl></div>
         </Container>
+        </div>
+        </div>
     );
 }

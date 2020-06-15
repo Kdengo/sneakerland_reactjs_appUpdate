@@ -38,6 +38,7 @@ export default function MediaCard() {
                 className={classes.media}
                 image={Imagen}
                 title="Contemplative Reptile"
+                
             />
             </CardActionArea>
 

@@ -19,6 +19,7 @@ function App() {
 
            <Card2 />
            <Formu />
+           <hr></hr>
            <Footer />
 
        </header>
